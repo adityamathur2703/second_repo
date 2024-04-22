@@ -1,0 +1,9 @@
+#ifndef TRANSPORTLICENSECATEGORY_H
+#define TRANSPORTLICENSECATEGORY_H
+
+enum class TransportLicenseCategory{
+    HMV,
+    HMV_STATE
+};
+
+#endif // TRANSPORTLICENSECATEGORY_H

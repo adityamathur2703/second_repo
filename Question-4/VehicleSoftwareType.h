@@ -1,0 +1,9 @@
+#ifndef VEHICLESOFTWARETYPE_H
+#define VEHICLESOFTWARETYPE_H
+
+enum class VehicleSoftwareType{
+    CLASSIC_AUTOSAR, 
+    ADAPTIVE_AUTOSAR
+};
+
+#endif // VEHICLESOFTWARETYPE_H
